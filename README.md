@@ -2,5 +2,4 @@
 
 cedascasedadascasd
 
-![Getting Started](./images/ilkrepo.jpg)
-![Getting Started](images/ilkrepo.jpg)
+![Ilkrepogorsel](./images/ilkrepo.jpg)
